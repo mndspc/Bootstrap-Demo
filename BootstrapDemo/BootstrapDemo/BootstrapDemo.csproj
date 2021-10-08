@@ -95,6 +95,9 @@
     <Content Include="Images\FullStackWebDev.png" />
     <Content Include="Images\Python.png" />
     <Content Include="Images\xamarin_mobile_app_development.png" />
+    <Content Include="NavBarDemo.html" />
+    <Content Include="PagerDemo.html" />
+    <Content Include="ProgressBarDemo.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -102,6 +105,8 @@
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="TableDemo.html" />
+    <Content Include="TabsAndPillsDemo.html" />
+    <Content Include="Tooltip.html" />
     <Content Include="TypographyDemo.html" />
     <Content Include="Web.config" />
   </ItemGroup>
